@@ -1,0 +1,16 @@
+{
+  "name": "studious-fishstick",
+  "version": "1.0.0",
+  "description": "API Client Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate" : "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openapitools/openapi-generator-cli": "^2.13.4",
+    "swagger-parser": "^10.0.3"
+  }
+}
